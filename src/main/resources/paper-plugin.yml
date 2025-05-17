@@ -1,0 +1,5 @@
+name: WolfCore
+version: '1.0'
+main: io.github.mtn16.wolfCore.WolfCore
+api-version: '1.21'
+authors: [ Mtn16 ]
